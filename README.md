@@ -4,8 +4,6 @@
 SICP
 Structure and Interpretation of Computer Programs
 计算机程序的构造和解释
-Structure and Interpretation of Computer Programs
-计算机程序的构造和解释
 ```
 ```
 CLRS
@@ -14,8 +12,8 @@ Introduction to Algorithms
 ```
 ```
 CSAPP
-Computer Systems: A Programmer's Perspective (3rd Edition)
-深入理解计算机系统（原书第3版）
+Computer Systems: A Programmer's Perspective
+深入理解计算机系统
 https://book.douban.com/subject/26912767/
 ```
 ```
@@ -27,6 +25,12 @@ https://book.douban.com/subject/26912767/
 ```
 Clean Code: A Handbook of Agile Software Craftsmanship
 代码整洁之道
+```
+```
+Effective Java
+```
+```
+Concurrency In Practice
 ```
 ```
 Clean Architecture
