@@ -36,6 +36,12 @@ Concurrency In Practice
 Clean Architecture
 软件架构与设计匠艺
 ```
+```
+图解HTTP
+```
+```
+学习JavaScript数据结构与算法
+```
 
 # Video
 
